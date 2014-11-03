@@ -1,4 +1,4 @@
-network_analysis_report
+# Network Analysis Report
 =======================
 Social Computing has brought Human Sciences and the Information Technology ever closer together. For instance, Sociology is concerned with, the connections between individuals, between social institutions, and between individuals and social institutions as well as their influence on each other (Giddens & Sutton, 2009). Pierre Bourdieu, the French Sociologist proposed the concept of “social capital” which means the benefit an individual gains thanks to their social network. In the recent years, because of the emergence of “virtual” social networks such as Facebook, and the interest of Computer Scientists in studying these networks, we are able to visually see and analyse human social networks, and to re-examine the Sociological concepts which concern human social networks and social capital. In this essay I analyse a small social network.  
  
@@ -23,7 +23,7 @@ With regards to eigenvector centrality, Ger Corcoran (purple), Joanne Hynes (yel
  
  
  
-References 
+## References 
  
 Giddens, A., & Sutton, P. W. (2009). Sociology (6th ed.). Cambridge: Polity. 
 Hansen, D., Shneiderman, B., & Smith, M. A. (2010). Analyzing Social Media Networks with NodeXL : Insights from a Connected World. Burlington: Morgan Kaufmann. 
