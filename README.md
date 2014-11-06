@@ -30,4 +30,4 @@ With regards to eigenvector centrality, Ger Corcoran (purple), Joanne Hynes (yel
 
 References
 ----------
-Giddens, A., & Sutton, P. W. (2009). *Sociology* (6th ed.). Cambridge: Polity. Hansen, D., Shneiderman, B., & Smith, M. A. (2010). *Analyzing Social Media Networks with NodeXL : Insights from a Connected World*. Burlington: Morgan Kaufmann. ￼
+Giddens, A., & Sutton, P. W. (2009). *Sociology* (6th ed.). Cambridge: Polity. Hansen, D., Shneiderman, B., & Smith, M. A. (2010). *Analyzing Social Media Networks with NodeXL : Insights from a Connected World*. Burlington: Morgan Kaufmann.
