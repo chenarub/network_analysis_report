@@ -4,7 +4,7 @@ Social Computing has brought Human Sciences and the Information Technology ever 
 
 To produce this graph I used the [Netvizz app](https://apps.facebook.com/netvizz/) on the Facebook platform in order to generate a Gephi file that has information on Friendships in a Facebook network. The file was then opened in the [Gephi app] (http://gephi.github.io) on the Windows OS to generate a graph. The layout was set to Forced Atlas 2; and then, Modularity Class was applied in order to give unique colours to different clusters. Labels were applied, and the degree range was limited to reduce clutter in the graph.
 
-**This social network consists of two clusters.** 
+**This social network consists of two clusters.**
  1. A yellow cluster is on the right and a purple cluster is on the left.
  2. Each cluster is made up of 10 to 20 nodes.
  3. Each node represents an individual.
